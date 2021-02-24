@@ -29,7 +29,8 @@
 ## Stack
 - Kotlin
 - PostgresSQL
-- 
+- Reddit API
+- Mail Service
 
 
 ## MVP
