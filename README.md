@@ -1,30 +1,14 @@
 # MarketPlanner
+The issue of investment is so urgent now requires careful research and a thorough approach to choosing an action strategy. There a lot of things that are necessary to manage like an investment portfolio formation strategy or percentage of high-risk and low-risk investments. It remarkably easy to manage such a thing with a tool, that can provide clear statistics, visualization, possible prediction, and collect other's opinions as well.
 
 ## App concept description 
-Основная цель приложения предоставить инструмент для построения статистических отчетов, мелкой аналитики и простого ML анализа. Отличаться от классических приложений подбной тематики будет вкладкой "что об думают другие со статистикой с редита?"
-
-Минимальный план:
-
-- рейтинг компаний (топ чарт в ютубе), без привязки отрасли 
-- получить данные по отраслям, поиск по критерию роста
-- выбрать компании в favorites 
-- аналитика (сравнение данных за периоды времени, кастомная настройка) МОЖНО ПОСМОТРЕТЬ В ЛИЧНОМ КАБИНЕТЕ
-- система оповещения в риал тайм, чтобы зайти (или предикшн что скоро эта ситуация наступит) ЭТО НЕ МЕЙЛЫ, А СООБЩЕНИЯ (типа попапов в телеграмме)
-
-
-Средний план:
-- Поле что об этом говорят? 
-выбираешь отрасль, и получаешь оценку того, что сообщество (например реддит) думает по этому поводу.
-на даном этапе позитивное (будет расти) и негативное (не будет).
-
-
+The core concept of the app is to provide the tool for monitoring, analyzing, and reporting the data on the stock exchange market. Timely advice is an indispensable solution, especially for a novice investor. Based on previous and current values we can analyze, predict and suggest the strategy of investing. The highlight of the app is a tab "What the others think about it?" presented in the statistics form.  
 
 ## About us
-- roles in our project
+We are going to smoothly divide the main positions between all three team members.
 
 ## Target group
-- newcammers that want to explore global market (not ready to buy, but highly interested in analysys)
-
+The app would be the most useful for newcomers who want to explore the global market, build an investment strategy, and are interested in advising.  
 
 ## Stack
 - Kotlin
@@ -32,6 +16,15 @@
 - Reddit API
 - Mail Service
 
-
 ## MVP
 - plain mockup
+- authorization
+- companies rating
+- opportunity to sort data by branch/tag
+- opportunity to choose company/branch as a favorite
+- analysis (comparing & visualizing data from different amount of time) 
+- custom notification service
+
+## Perspective View
+- opinions service presented as statistics 
+- predictions service
