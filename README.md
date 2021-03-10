@@ -17,7 +17,7 @@ The app would be the most useful for newcomers who want to explore the global ma
 - Mail Service
 
 ## MVP
-- [plain mockup](https://www.figma.com/file/bFeZeTBaztL2eRdyhqU3yN/MarketPlanner?node-id=0%3A1)
+- [plain mockup](https://www.figma.com/file/bFeZeTBaztL2eRdyhqU3yN/MarketPlanner?node-id=0%3A1) and [mindMap diagram](https://miro.com/welcomeonboard/AAiNdnPKeJBfO1iMiQKTvH2UyPih0k82I2mvhmHTQgaQBkT1RtRjtAbs5KOprCEl)
 - authorization
 - companies rating
 - opportunity to sort data by branch/tag
